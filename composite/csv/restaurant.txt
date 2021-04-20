@@ -1,0 +1,9 @@
+r_name,r_location,r_zipcode,r_category
+Mocca,175 Maiden Ln,94108,Italian
+Oriental Pearl Restaurant,760 Clay St,94108,Chinese
+The House,1230 Grant Ave,94133,Asian Fusion
+Chapeau!,126 Clement St,94129,French
+NOPA,560 Divisadero St,94117,American
+Bistro Central Parc,560 Central Ave,94117,French
+Millennium,580 Geary St,94102,Vegan
+Jardiniere,300 Grove St,94102,French
